@@ -1,0 +1,2 @@
+- mian.py 批量修改文件名
+- anim_xml_gen 生成Android帧动画XML文件
